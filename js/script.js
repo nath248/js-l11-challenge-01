@@ -27,5 +27,5 @@ const displayImage = function(randomImage) {
 
 button.addEventListener("click", function() {
     getImage();
-    console.log(getImage);
+    //console.log(getImage);
 });
